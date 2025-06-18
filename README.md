@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning and its core algorithms**
 
-- 📍 I’m interested in **exploring data, training ML models, Data Analytics**
-
 - 📫 How to reach me **tsingh3_be24@thapar.edu**
 
 <h3 align="left">Connect with me:</h3>
