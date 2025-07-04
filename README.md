@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarandeep Singh</h1>
 <h3 align="center">Passionate about AI, Machine Learning, and Data Science — focused on building smart, data-driven solutions.</h3>
 
-- 📚 I’m currently studying **Data Science and AI at Thapar Institute of Engineering and Technology**
+- 📚 I’m currently studying **Machine Learning and AI at Thapar Institute of Engineering and Technology**
 
 - 🌱 I’m learning **Machine Learning and its core algorithms**
 
